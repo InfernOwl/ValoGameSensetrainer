@@ -1,0 +1,46 @@
+{
+    "Agents": [{
+        "name": "Kay/O",
+        "image": "Kayo.png",
+        "moves": [{
+                "FragMent": {
+                    "audio": "Kayo_FragMent.mp3",
+                    "logo": "fragment.jpg"
+                },
+                "FlashDrive": {
+                    "audio": "Kayo_FlashDrive.mp3",
+                    "logo": "flashdrive.jpg"
+                },
+                "ZeroPoint": {
+                    "audio": "Kayo_ZeroPoint.mp3",
+                    "logo": "zeropoint.jpg"
+                },
+                "NullCmd": {
+                    "audio": "Kayo_NullCmdFriend.mp3",
+                    "logo": "nullcmd.jpg"
+                }
+        }]
+    },
+    {
+        "name": "Astra",
+        "image": "Astra.png",
+        "moves": [{
+                "FragMent": {
+                    "audio": "Gravity_Well.mp3",
+                    "logo": "gravitywell.jpg"
+                },
+                "FlashDrive": {
+                    "audio": "Nova_Pulse.mp3",
+                    "logo": "novapulse.jpg"
+                },
+                "ZeroPoint": {
+                    "audio": "Nebula.mp3",
+                    "logo": "nebula.jpg"
+                },
+                "NullCmd": {
+                    "audio": "Cosmic_Divide.mp3",
+                    "logo": "cosmicdivide.jpg"
+                }
+        }]
+    }]
+}

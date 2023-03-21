@@ -1,0 +1,24 @@
+{
+    "questions": [
+      {
+        "audio": "Kayo_FlashDrive.mp3",
+        "answer": "FlashDrive"
+      },
+      {
+        "audio": "Kayo_FragMent.mp3",
+        "answer": "FragMent"
+      },
+      {
+        "audio": "Kayo_ZeroPoint.mp3",
+        "answer": "ZeroPoint"
+      },
+      {
+        "audio": "Kayo_NullCmdFriend.mp3",
+        "answer": "FragMent"
+      },
+      {
+        "audio": "Kayo_NullCmdFoe.mp3",
+        "answer": "FragMent"
+      }
+    ]
+}
